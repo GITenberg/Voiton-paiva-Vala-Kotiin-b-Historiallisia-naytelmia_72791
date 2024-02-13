@@ -1,5 +1,8 @@
 _repo: Voiton-paiva-Vala-Kotiin-b-Historiallisia-naytelmia_72791
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilkuna, Kyösti
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4879
     wikipedia: https://fi.wikipedia.org/wiki/Ky%C3%B6sti_Wilkuna
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72791#Voiton-paiva-Vala-Kotiin-b-Historiallisia-naytelmia
 gutenberg_issued: '2024-01-24'
 gutenberg_type: Text
 identifiers:
