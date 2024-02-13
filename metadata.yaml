@@ -1,0 +1,32 @@
+_repo: Voiton-paiva-Vala-Kotiin-b-Historiallisia-naytelmia_72791
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilkuna, Kyösti
+    alias: Wilkuna, Kyosti
+    birthdate: 1879
+    deathdate: 1922
+    gutenberg_agent_id: '4879'
+    url: http://www.gutenberg.org/2009/agents/4879
+    wikipedia: https://fi.wikipedia.org/wiki/Ky%C3%B6sti_Wilkuna
+description: ''
+gutenberg_issued: '2024-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72791'
+language: fi
+pgterms:marc905: 20231219094929wilkuna
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcsh 'One-act plays, Finnish'
+- !lcc 'PH'
+- GITenberg
+title: 'Voiton päivä; Vala; Kotiin : $b Historiallisia näytelmiä'
+url: http://www.gutenberg.org/ebooks/72791
